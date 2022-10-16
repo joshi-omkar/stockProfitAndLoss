@@ -1,2 +1,5 @@
 # stock-profit-and-loss
-Created with CodeSandbox
+This is a webapp to find the profit and loss in stocks.
+Put buying price, quantity, and currebt price.
+you will get to know your profit or loss...
+
